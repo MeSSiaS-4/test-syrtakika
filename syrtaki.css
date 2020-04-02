@@ -1,7 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
 /* Style the body */
 body {
-color:#ffffff;
-background-color:#000000;
+  color:#ffffff;
+  background-color:#000000;
   font-family: Arial;
   margin: 0;
 }
@@ -97,8 +101,39 @@ border-radius: 10px;
 /* Main column */
 .main {
   flex: 70%;
-  padding: 20px;
 }
+
+/* Menu items */
+
+.menu_item {
+border: 2px solid #0D5EAF;
+  border-radius: 8px;
+  background-color: #0D5EAF;
+}
+
+h.menu_item {
+  border: none;
+  color: #ffffff;
+  font-weight: bold;
+margin-left: 10px;
+}
+
+/* Name of item & info for the item */
+
+.item_name {
+  color: #ffffff;
+  font-weight: bold;
+  margin-left: 5px;
+  margin-bottom: -10px;
+}
+
+.item_info {
+  color: #ffffff;
+  margin-left: 20px;
+  margin-top: -5px;
+  margin-bottom: 0px;
+}
+
 
 /* Footer */
 .footer {
