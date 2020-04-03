@@ -33,10 +33,17 @@ body {
 
 /* Header logo Title */
 .header {
-  padding: 60px;
+  padding: 10px;
   text-align: center;
   background: #000000;
   color: #ffffff;
+}
+
+.site_logo {
+  width: 50%;
+  hight: 50%,
+  max-width: 200px;
+  max-hight: 150px;
 }
 
 /* Style the top navigation bar */
@@ -55,18 +62,24 @@ body {
 
 /* Style the side bar links */
 .side a {
-   color: #ffffff;
+  border: 1px solid black;
+  color: #ffffff;
   text-decoration: none;
   text-align: left;
+  background-color: #0D5EAF;
+  padding-right: 5px;
+  padding-left: 5px;
 }
 
 /* Style the side bar links on hover */
 .side a:hover {
- border-width: 1px 3px;
+ border-width: 1px;
  border-style: solid;
  color: #d4af37;
  background-color: #000000;
  text-decoration: none;
+ padding-right: 5px;
+ padding-left: 5px;
 }
 
 /* Change color on hover */
