@@ -146,6 +146,17 @@ h.menu_item {
 /* Name of item & info for the item */
 
 .item_name {
+  display: inline-block;
+  color: #ffffff;
+  font-weight: bold;
+  margin-left: 5px;
+  margin-bottom: -12px;
+  margin-top: -5px;
+}
+
+.item_price {
+  vertical-align:center;
+  display: inline-block;
   color: #ffffff;
   font-weight: bold;
   margin-left: 5px;
@@ -156,8 +167,7 @@ h.menu_item {
 .item_info {
   color: #ffffff;
   margin-left: 20px;
-  margin-top: -7px;
-  
+  margin-top: -2px;
 }
 
 
