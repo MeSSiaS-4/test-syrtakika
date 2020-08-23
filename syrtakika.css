@@ -9,6 +9,7 @@
 
 /* Style the tab */
 .tab {
+  font-size:2vw;
   overflow: hidden;
   background-color: #000000;
   }
@@ -44,6 +45,7 @@
 
 /* Style the tab */
 .tab2 {
+  font-size:2vw;
   overflow: hidden;
   background-color: #000000;
   }
