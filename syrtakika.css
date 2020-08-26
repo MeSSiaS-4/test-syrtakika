@@ -9,7 +9,6 @@
 
 /* Style the tab */
 .tab {
-  font-size:2vw;
   overflow: hidden;
   background-color: #000000;
   }
@@ -45,7 +44,6 @@
 
 /* Style the tab */
 .tab2 {
-  font-size:2vw;
   overflow: hidden;
   background-color: #000000;
   }
@@ -60,7 +58,6 @@
   cursor: pointer;
   padding: 14px 16px;
   transition: 0.3s;
-  font-size: 17px;
   }
 
 /* Change background color of buttons on hover */
@@ -85,7 +82,6 @@
 
 .KontaktText {
   text-align: center;
-  font-size: 17px;
   }
 
 .menusite {
@@ -97,7 +93,6 @@
 
 /* Create two equal columns that floats next to each other */
 .ItemInfo-Price {
-  font-size:2vw;
   color: #FFFFFF;
   line-height: 1.6;
   padding-right: 3px;
