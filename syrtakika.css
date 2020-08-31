@@ -24,7 +24,7 @@
   cursor: pointer;
   padding: 14px 16px;
   transition: 0.3s;
-  font-size: 17px;
+  font-size: 22px;
   }
 
 /* Change background color of buttons on hover */
@@ -56,7 +56,7 @@
   float: left;
   border: none;
   outline: none;
-  font-size: 17px;
+  font-size: 19px;
   cursor: pointer;
   padding: 14px 16px;
   transition: 0.3s;
