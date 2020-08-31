@@ -24,6 +24,7 @@
   cursor: pointer;
   padding: 14px 16px;
   transition: 0.3s;
+  font-size: 17px;
   }
 
 /* Change background color of buttons on hover */
@@ -39,7 +40,6 @@
 /* Style the tab content */
 .tabcontent {
   display: none;
-  font-size: 22px;
   padding: 6px 12px;
   }
 
@@ -56,6 +56,7 @@
   float: left;
   border: none;
   outline: none;
+  font-size: 17px;
   cursor: pointer;
   padding: 14px 16px;
   transition: 0.3s;
@@ -75,7 +76,6 @@
 .tabcontent2 {
   display: none;
   padding: 6px 12px;
-  font-size: 17px;
   }
 
 .Syrtaki-Front-Gate {
