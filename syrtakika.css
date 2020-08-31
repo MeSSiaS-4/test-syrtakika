@@ -4,7 +4,6 @@
 
 .body {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 17px;
   color: #FFFFFF;
   background-color: #001489;
   }
@@ -99,7 +98,7 @@
   padding-right: 3px;
   background-color: #040D45;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
+  font-size: 25px;
   white-space: pre;
   float: left;
 }
