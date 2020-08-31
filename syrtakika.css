@@ -12,6 +12,7 @@
 .tab {
   overflow: hidden;
   background-color: #000000;
+  font-size: 22px;
   }
 
 /* Style the buttons inside the tab */
@@ -45,6 +46,7 @@
 /* Style the tab */
 .tab2 {
   overflow: hidden;
+  font-size: 22px;
   background-color: #000000;
   }
 
