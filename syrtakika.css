@@ -120,6 +120,7 @@
   }
 
 .news {
+  position: relative;
   background-image: url('Syrtaki-front-corona-december.jpg');
   width: 720px;
   height: 513px;
